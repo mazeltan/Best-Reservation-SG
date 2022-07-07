@@ -5,7 +5,6 @@
 3. Conventions 
 
 ## Start a development environment
-Yes, Darryl. We know. You already told us how!
 But, let me repeat myself.
 
 Navigate into dir with package.json 
